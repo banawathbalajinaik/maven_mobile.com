@@ -1,0 +1,2 @@
+war.App=org.springframework.stereotype.Component
+war.GreetingController=org.springframework.stereotype.Component
